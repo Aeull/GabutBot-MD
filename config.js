@@ -20,11 +20,11 @@ global.APIKeys = {
 
 // Configuration BOT
 
-global.owner = ['628116646665'] //Nomor lu
-global.premium = ['628116646665'] //Nomor lu
-global.packname = 'GabutBot-MD' //Nama bot lu utk wm stiker
-global.author = 'ShinySebastian' //Nama lu utk wm stiker
-global.sessionName = 'gabutbot' //Nama session
+global.owner = ['6285822347348'] //Nomor lu
+global.premium = ['6285822347348'] //Nomor lu
+global.packname = 'ArullBotz' //Nama bot lu utk wm stiker
+global.author = 'Arull' //Nama lu utk wm stiker
+global.sessionName = 'session' //Nama session
 global.prefa = ['','!','.','🐦','🐤','🗿'] //Prefix bot serah lo mau ubah atau ga
 global.sp = '⭔'
 global.mess = {
